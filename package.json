@@ -1,0 +1,29 @@
+{
+  "name": "scratch",
+  "version": "1.0.0",
+  "description": "Basic Php",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp connect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhoiDanny/Scratch.git"
+  },
+  "keywords": [
+    "scratch",
+    "basic",
+    "php"
+  ],
+  "author": "cypherios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhoiDanny/Scratch/issues"
+  },
+  "homepage": "https://github.com/BhoiDanny/Scratch#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-connect-php": "^1.0.3"
+  }
+}
